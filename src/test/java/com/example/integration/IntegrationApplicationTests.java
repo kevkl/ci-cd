@@ -9,7 +9,7 @@ class IntegrationApplicationTests {
 	@Test
 	void contextLoads() {
 			IntegrationApplication a =new IntegrationApplication();
-			assert a.calc(1,2) == 2;
+			assert a.calc(1,2) == 3;
 	}
 
 
